@@ -9,7 +9,7 @@ Calculator Interface: The web-based calculator presents a clean and organized us
 
 Responsive Design: The calculator is designed to be responsive, ensuring that it functions and looks well on various screen sizes, from desktops to mobile devices.
 
-Input and Display: Users can interact with the calculator by clicking on the virtual buttons representing numbers (0-9), mathematical operators (+, -, *, /,**,%), and control functions (equal sign (=), clear (AC)). The current input and calculation are displayed in the top display area.
+Input and Display: Users can interact with the calculator by clicking on the virtual buttons representing numbers (0-9), mathematical operators (+, -, *, / ,** ,%), and control functions (equal sign (=), clear (AC)). The current input and calculation are displayed in the top display area.
 
 Arithmetic Operations: Users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division by clicking the corresponding operator buttons. The calculator can handle multi-step calculations.
 
